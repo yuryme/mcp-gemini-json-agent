@@ -20,3 +20,5 @@ __pycache__/
 # данные проекта
 data_dir/Output.txt
 data_dir/object_uid.json
+
+# Это ветка main
