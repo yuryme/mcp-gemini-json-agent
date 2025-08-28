@@ -1,0 +1,155 @@
+[
+  {
+    "uid": "0234c067-7868-46b2-ba8e-e22fae5255cb",
+    "kind": "",
+    "name": "",
+    "title": "Строка",
+    "isPrimitive": true,
+    "dbType": 16,
+    "objectKindUid": null
+  },
+  {
+    "uid": "b327f82a-ea96-416f-9836-785db28eccac",
+    "kind": "",
+    "name": "",
+    "title": "Целое число (int)",
+    "isPrimitive": true,
+    "dbType": 11,
+    "objectKindUid": null
+  },
+  {
+    "uid": "daa57cb0-32eb-4709-b61f-4ea023ae31c3",
+    "kind": "",
+    "name": "",
+    "title": "Целое число (long)",
+    "isPrimitive": true,
+    "dbType": 12,
+    "objectKindUid": null
+  },
+  {
+    "uid": "4bff64cf-eb01-4933-9f3d-b902336751f4",
+    "kind": "",
+    "name": "",
+    "title": "Булево",
+    "isPrimitive": true,
+    "dbType": 3,
+    "objectKindUid": null
+  },
+  {
+    "uid": "a05516ac-baae-4f66-9b67-6703998a6a1b",
+    "kind": "",
+    "name": "",
+    "title": "Десятичное число",
+    "isPrimitive": true,
+    "dbType": 7,
+    "objectKindUid": null
+  },
+  {
+    "uid": "9001eafb-efb1-442f-b288-723bb8002b12",
+    "kind": "",
+    "name": "",
+    "title": "Дата&Время",
+    "isPrimitive": true,
+    "dbType": 6,
+    "objectKindUid": null
+  },
+  {
+    "uid": "6fa9c45b-f514-4fea-a480-8e940636a1df",
+    "kind": "",
+    "name": "",
+    "title": "Guid",
+    "isPrimitive": true,
+    "dbType": 9,
+    "objectKindUid": null
+  },
+  {
+    "uid": "689d1aac-66d8-478f-852e-0e3881b427bf",
+    "kind": "",
+    "name": "",
+    "title": "Вид метаданных",
+    "isPrimitive": false,
+    "dbType": 9,
+    "objectKindUid": null
+  },
+  {
+    "uid": "a4d064c6-465f-42a5-bbc0-48f743148c36",
+    "kind": "",
+    "name": "",
+    "title": "Объект метаданных",
+    "isPrimitive": false,
+    "dbType": 9,
+    "objectKindUid": null
+  },
+  {
+    "uid": "daeec71f-161c-4e09-8d5d-68e360884b08",
+    "kind": "operation",
+    "name": "odno_pole_v_shapke",
+    "title": "Операция.Одно поле в шапке",
+    "isPrimitive": false,
+    "dbType": 11,
+    "objectKindUid": "14a60875-e241-4e99-b32d-d45b2726d18b"
+  },
+  {
+    "uid": "1e7a5b2f-ad7a-4ce2-80c9-36d874e28c02",
+    "kind": "operation",
+    "name": "payment",
+    "title": "Операция.Оплата",
+    "isPrimitive": false,
+    "dbType": 11,
+    "objectKindUid": "14a60875-e241-4e99-b32d-d45b2726d18b"
+  },
+  {
+    "uid": "dc07538b-029a-413d-9650-f230d212e95e",
+    "kind": "operation",
+    "name": "supply",
+    "title": "Операция.Поставка",
+    "isPrimitive": false,
+    "dbType": 11,
+    "objectKindUid": "14a60875-e241-4e99-b32d-d45b2726d18b"
+  },
+  {
+    "uid": "75a44b8c-10f9-473b-a3ea-393d7feedf15",
+    "kind": "operation",
+    "name": "test",
+    "title": "Операция.ТЕСТ",
+    "isPrimitive": false,
+    "dbType": 11,
+    "objectKindUid": "14a60875-e241-4e99-b32d-d45b2726d18b"
+  },
+  {
+    "uid": "b8965843-af55-4f5b-b211-946226bf37f2",
+    "kind": "operation",
+    "name": "test_2",
+    "title": "Операция.Тест 2",
+    "isPrimitive": false,
+    "dbType": 11,
+    "objectKindUid": "14a60875-e241-4e99-b32d-d45b2726d18b"
+  },
+  {
+    "uid": "670dae7a-993c-493b-a422-21f0a9c58edd",
+    "kind": "enum",
+    "name": "stavki_nds",
+    "title": "Перечисление.Ставки НДС",
+    "isPrimitive": false,
+    "dbType": 16,
+    "objectKindUid": "5449a8ad-9359-41b2-8ff2-3f415eb4da76"
+  },
+  {
+    "uid": "cf60c96b-2396-4d4a-88c2-c0e045ac1dd5",
+    "kind": "catalog",
+    "name": "partner",
+    "title": "Справочник.Контрагент",
+    "isPrimitive": false,
+    "dbType": 11,
+    "objectKindUid": "032d8377-500f-4631-b435-1f7f69046674"
+  },
+  {
+    "uid": "3bd2b48b-9d3b-48b4-b676-85888e657aca",
+    "kind": "catalog",
+    "name": "fizlitsa",
+    "title": "Справочник.Физлица",
+    "isPrimitive": false,
+    "dbType": 11,
+    "objectKindUid": "032d8377-500f-4631-b435-1f7f69046674"
+  }
+]

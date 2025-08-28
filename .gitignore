@@ -1,0 +1,22 @@
+# виртуальные окружения
+venv/
+.env
+
+# служебные каталоги Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# кэш mypy / pytest
+.mypy_cache/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# данные проекта
+data_dir/Output.txt
+data_dir/object_uid.json
