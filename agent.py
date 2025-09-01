@@ -56,6 +56,7 @@ def build_prompt(user_question: str, input_txt: str, types_txt: str, object_uid_
         "Контекст из файла data_dir/input.txt:\n"
         f"{input_txt}\n"
         "Доп. справка из data_dir/data_types.txt:\n"
+        "Для новых созданных полей uid всегда пустое\n"
         f"{types_txt}\n"
        # "Доп. справка из data_dir/object_uid.json:\n"
        #f"{object_uid_txt}\n"
